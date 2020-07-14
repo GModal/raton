@@ -1,4 +1,4 @@
-# Raton
+# Ratón
 
 Raton was a mouse-to-midi continuous controller for the Linux platform I wrote in 2005. It uses alsa midi, was written with Glade2 and requires GTK2.4+ libraries (which are OLD).
 
