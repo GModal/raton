@@ -8,4 +8,4 @@ It may be little more than a historical footnote, but I felt the source needed a
 
 Also -- it still works very well. Not fancy, but useful.
 
-<img src="https://./webstuff/raton.png" width="150">
+<img src="https://github.com/GModal/raton/blob/master/webstuff/raton.png" width="150">
