@@ -7,3 +7,5 @@ It was linked from the Linuxsound.org page (still is!), but never received wides
 It may be little more than a historical footnote, but I felt the source needed a home.
 
 Also -- it still works very well. Not fancy, but useful.
+
+<img src="https://./webstuff/raton.png" width="150">
